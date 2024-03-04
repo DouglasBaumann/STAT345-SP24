@@ -1,5 +1,5 @@
 ---
-title: "Git (Version Control)"
+title: "Git (Version Control) v2"
 author: "STAT 345 - Statistical Computing"
 output:
   ioslides_presentation: default
